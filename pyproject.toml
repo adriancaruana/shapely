@@ -10,7 +10,7 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "shapely"
+name = "shapely-minimum-width"
 dynamic = ["version"]
 authors = [
     {name = "Sean Gillies"},
